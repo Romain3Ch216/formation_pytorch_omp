@@ -30,7 +30,9 @@ La journée (9h-12h30 / 14h-17h) sera sous la forme d'un TP (sur vos machines) a
  
 ### Installation des bibliothèques python et téléchargement des notebooks
 
-Nous vous recommandons d'installer Anaconda (https://docs.anaconda.com/anaconda/install/) qui inclut Jupyter Notebook. 
+Si vous ne souhaitez pas installer les bibliothèques en local, vous pouvez suivre l'atelier à partir des notebooks google Colab dont vous trouverez les liens au début de chaque jupyter notebook.
+
+Sinon, nous vous recommandons d'installer Anaconda (https://docs.anaconda.com/anaconda/install/) qui inclut Jupyter Notebook. 
 
 Une fois installé, vous pouvez créer un environnement virtuel en exécutant les commandes suivantes dans votre terminal:
 
