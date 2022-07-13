@@ -28,16 +28,28 @@ La journée (9h-12h30 / 14h-17h) sera sous la forme d'un TP (sur vos machines) a
  * Si vous n'avez jamais utilisé PyTorch, avoir visualisé le cours Fidle https://www.youtube.com/watch?v=XvaxqXD3B9k (jusqu'à 1h09),
  * Avoir installé les bibliothèques nécessaires comme expliqué ci-dessous.
  
-### Installation de PyTorch et de Jupyter Notebook
+### Installation des bibliothèques python et téléchargement des notebooks
 
 Nous vous recommandons d'installer Anaconda (https://docs.anaconda.com/anaconda/install/) qui inclut Jupyter Notebook. 
 
-Une fois installé, il suffit d'exécuter les commandes suivantes dans votre terminal:
+Une fois installé, vous pouvez créer un environnement virtuel en exécutant les commandes suivantes dans votre terminal:
 
 ```
 conda create -n atelier_pytorch_omp python=3.8.5
 conda activate atelier_pytorch_omp
+```
+
+Vous pourrez ensuite cloner le répertoire et installer les dépendances nécessaires comme suit :
+
+```
+git clone https://github.com/Romain3Ch216/atelier_pytorch_omp.git
+cd atelier_pytorch_omp
 pip install -r requirements.txt
+```
+Pour vérifier votre installation, vous pouvez ouvrir un notebook et exécuter les premières cellules :
+
+```
+jupyter-notebook partie_1.ipynb
 ```
 
 ### Public concerné
