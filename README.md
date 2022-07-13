@@ -1,4 +1,4 @@
-# Atelier Pytorch à l'Observatoire Midi-Pyrénées - les bases pour être autonome
+# Atelier PyTorch à l'Observatoire Midi-Pyrénées - les bases pour être autonome
 
 #### 3 novembre 2022 de 9h à 17h à l'OMP (salle Coriolis)
 
