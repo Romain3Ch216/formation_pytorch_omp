@@ -34,7 +34,7 @@ Nous aurons besoin des données téléchargeables au lien suivant : https://next
 
 ### Installation des bibliothèques python et téléchargement des notebooks
 
-Si vous ne souhaitez pas installer les bibliothèques en local, vous pouvez suivre l'atelier à partir des notebooks google Colab dont vous trouverez les liens au début de chaque jupyter notebook.
+**Si vous ne souhaitez pas installer les bibliothèques en local, vous pouvez suivre l'atelier à partir des notebooks google Colab** dont vous trouverez les liens au début de chaque jupyter notebook.
 
 Sinon, nous vous recommandons d'installer Anaconda (https://docs.anaconda.com/anaconda/install/) qui inclut Jupyter Notebook. 
 
