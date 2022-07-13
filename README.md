@@ -8,7 +8,7 @@ A la fin de la journée, vous serez capables de :
 
  * Comprendre dans le détail et manipuler les objets de base de PyTorch :
    * Tenseurs ```torch.tensor``` (transposer, concaténer, multiplier, dupliquer...),
-   * Paramètres ```torch.nn.parameter``` (caluler et rétro-propager le gradient...),
+   * Paramètres ```torch.nn.parameter``` (caluler et rétro-propager le gradient par rapport à certains paramètres...),
    * Modèles ```torch.nn.Module``` (créer vos modèles, charger des paramètres pré-entrainés, fine-tuner...)
    * Modules ```torch.nn.modules``` (créer vos propres couches...)
  * Définir un ```torch.utils.data.Dataset``` adapté à votre application,
