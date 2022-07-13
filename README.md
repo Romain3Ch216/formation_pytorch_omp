@@ -28,6 +28,10 @@ La journée (9h-12h30 / 14h-17h) sera sous la forme d'un TP (sur vos machines) a
  * Si vous n'avez jamais utilisé PyTorch, avoir visualisé le cours Fidle https://www.youtube.com/watch?v=XvaxqXD3B9k (jusqu'à 1h09),
  * Avoir installé les bibliothèques nécessaires comme expliqué ci-dessous.
  
+### Téléchargement des données 
+
+Nous aurons besoin des données téléchargeables au lien suivant : https://nextcloud.isae.fr/index.php/s/WmjQPyH3g2EK33x
+
 ### Installation des bibliothèques python et téléchargement des notebooks
 
 Si vous ne souhaitez pas installer les bibliothèques en local, vous pouvez suivre l'atelier à partir des notebooks google Colab dont vous trouverez les liens au début de chaque jupyter notebook.
