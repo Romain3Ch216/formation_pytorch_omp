@@ -10,8 +10,8 @@ A la fin de la journée, vous serez capables de :
    * Tenseurs ```torch.tensor``` (transposer, concaténer, multiplier, dupliquer...),
    * Paramètres ```torch.nn.parameter``` (caluler et rétro-propager le gradient par rapport à certains paramètres, fine-tuner...),
    * Modèles ```torch.nn.Module``` (créer vos modèles, charger des paramètres pré-entrainés...)
-   * Modules ```torch.nn.modules``` (créer vos propres couches...)
- * Définir un ```torch.utils.data.Dataset``` adapté à votre application,
+   * Modules ```torch.nn.modules``` (créer vos propres couches...),
+   * Dataset ```torch.utils.data.Dataset``` (définir un dataset adapté à votre cas).
  * Sauvegarder les paramètres de votre modèle,
  * Optimiser votre modèle sur GPU,
  * Définir vos propres fonctions de régularisation,
