@@ -7,9 +7,9 @@
 A la fin de la journée, vous serez capables de : 
 
  * Comprendre dans le détail et manipuler les objets de base de PyTorch :
-   ** Tenseurs ```torch.tensor``` (transposer, concaténer, multiplier, dupliquer...),
-   ** Modèles ```torch.nn.Module``` (créer vos modèles, charger des paramètres pré-entrainés, fine-tuner...)
-   ** Modules ```torch.nn.modules``` (créer vos propres couches...)
+   * Tenseurs ```torch.tensor``` (transposer, concaténer, multiplier, dupliquer...),
+   * Modèles ```torch.nn.Module``` (créer vos modèles, charger des paramètres pré-entrainés, fine-tuner...)
+   * Modules ```torch.nn.modules``` (créer vos propres couches...)
  * Définir un ```torch.utils.data.Dataset```,
  * Sauvegarder les paramètres de votre modèle,
  * Optimiser votre modèle sur GPU,

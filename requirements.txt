@@ -1,6 +1,6 @@
-torch=1.10.0+cu102
-matplotlib=3.3.2
+torch==1.10.0
+matplotlib==3.3.2
 tqdm
-sklearn=0.24.1
-rasterio=1.2.10
+sklearn
+rasterio==1.2.10
 
