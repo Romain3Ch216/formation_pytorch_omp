@@ -17,6 +17,11 @@ A la fin de la journée, vous serez capables de :
  * Définir vos propres fonctions de régularisation,
  * Définir différents hyper-paramètres (comme le *learning rate*) pour différents paramètres de votre modèle,
  * Utiliser différentes fonctions objectives pour différents paramètres.
+  
+ **Atention**, cet atelier n'est :
+  * ni une formation débutante à Python,
+  * ni un cours de Machine Learning
+  * ni une formation avancée pour des utilisateurs réguliers de PyTorch.
  
  ### Organisation de la journée
 
@@ -61,5 +66,3 @@ jupyter-notebook partie_1.ipynb
 ### Public concerné
 
 Stagiaires, CDD, Doctorants, Post Docs ou tout autre personnel permanent.
-
-**Atention**, cet atelier n'est ni une formation à Python, ni un cours de machine learning ni un atelier pour des utilisateurs expérimentés de PyTorch.
