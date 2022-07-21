@@ -20,7 +20,7 @@ A la fin de la journée, vous serez capables de :
   
  **Atention**, cet atelier n'est :
   * ni une formation débutante à Python,
-  * ni un cours de Machine Learning
+  * ni un cours de Machine Learning,
   * ni une formation avancée pour des utilisateurs réguliers de PyTorch.
  
  ### Organisation de la journée
