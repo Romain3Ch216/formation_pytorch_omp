@@ -4,7 +4,7 @@
 
 ### Objectifs
 
-A la fin de la journée, vous serez capables de : 
+A la fin de la journée, vous serez capable de : 
 
  * Comprendre dans le détail et manipuler les objets de base de PyTorch :
    * Tenseurs ```torch.tensor``` (transposer, concaténer, multiplier, dupliquer...),
