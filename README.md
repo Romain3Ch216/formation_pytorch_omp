@@ -1,4 +1,4 @@
-# Atelier PyTorch à l'Observatoire Midi-Pyrénées - les bases pour être autonome
+# Formation PyTorch à l'Observatoire Midi-Pyrénées - les bases pour être autonome
 
 #### 3 novembre 2022 de 9h à 17h à l'OMP (salle Coriolis)
 
@@ -23,7 +23,7 @@ A la fin de la journée, vous serez capable de :
   * ni un cours de Machine Learning,
   * ni une formation avancée pour des utilisateurs réguliers de PyTorch.
  
- ### Organisation de la journée
+### Organisation de la journée
 
 La journée (9h-12h30 / 14h-17h) sera sous la forme d'un TP (sur vos machines) avec une alternance de parties *magistrales* et d'exercices pratiques.
 
