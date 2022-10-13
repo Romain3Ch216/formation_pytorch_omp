@@ -19,9 +19,10 @@ A la fin de la journée, vous serez capable de :
  * Utiliser différentes fonctions objectives pour différents paramètres.
   
  **Atention**, cet atelier n'est :
-  * ni une formation débutante à Python,
-  * ni un cours de Machine Learning,
-  * ni une formation avancée pour des utilisateurs réguliers de PyTorch.
+ 
+ * ni une formation débutante à Python,
+ * ni un cours de Machine Learning,
+ * ni une formation avancée pour des utilisateurs réguliers de PyTorch.
  
 ### Organisation de la journée
 
@@ -35,7 +36,9 @@ La journée (9h-12h30 / 14h-17h) sera sous la forme d'un TP (sur vos machines) a
  
 ### Téléchargement des données 
 
-Nous aurons besoin des données téléchargeables au lien suivant : https://nextcloud.isae.fr/index.php/s/WmjQPyH3g2EK33x
+Nous aurons besoin des données téléchargeables au lien suivant : 
+
+https://nextcloud.isae.fr/index.php/s/WmjQPyH3g2EK33x
 
 ### Installation des bibliothèques python et téléchargement des notebooks
 
@@ -57,6 +60,11 @@ git clone https://github.com/Romain3Ch216/atelier_pytorch_omp.git
 cd atelier_pytorch_omp
 pip install -r requirements.txt
 ```
+Sur windows:
+```
+pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
+```
+
 Pour vérifier votre installation, vous pouvez ouvrir un notebook et exécuter les premières cellules :
 
 ```
