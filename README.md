@@ -15,9 +15,7 @@ A la fin de la journée, vous serez capable de :
  * Sauvegarder les paramètres de votre modèle,
  * Optimiser votre modèle sur GPU,
  * Définir vos propres fonctions de régularisation,
- * Définir différents hyper-paramètres (comme le *learning rate*) pour différents paramètres de votre modèle,
- * Utiliser différentes fonctions objectives pour différents paramètres.
-  
+ * Définir différents hyper-paramètres (comme le *learning rate*) pour différents paramètres de votre modèle.  
  **Atention**, cet atelier n'est :
  
  * ni une formation débutante à Python,
