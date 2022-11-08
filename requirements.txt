@@ -2,5 +2,4 @@ torch==1.10.0
 matplotlib==3.3.2
 tqdm
 sklearn
-rasterio==1.2.10
 
