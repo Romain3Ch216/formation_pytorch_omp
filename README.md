@@ -1,6 +1,6 @@
 # Formation PyTorch à l'Observatoire Midi-Pyrénées - les bases pour être autonome
 
-#### 3 novembre 2022 de 9h à 17h à l'OMP (salle Coriolis)
+#### 19 avril 2023 de 9h à 17h à l'OMP (salle Coriolis)
 
 ### Objectifs
 
