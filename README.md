@@ -48,7 +48,7 @@ Sinon, nous vous recommandons d'installer Anaconda (https://docs.anaconda.com/an
 Une fois installé, vous pouvez créer un environnement virtuel en exécutant les commandes suivantes dans votre terminal:
 
 ```
-conda create -n atelier_pytorch_omp python=3.8.5
+conda create -n atelier_pytorch_omp python=3
 conda activate atelier_pytorch_omp
 ```
 
